@@ -5,7 +5,8 @@ Mizumi adalah proyek pribadi saya untuk belajar React dan Tailwind CSS dengan fo
 ## Desain UI/UX
 
 Berikut adalah gambaran desain UI/UX  Mizumi:
-![Screenshot 2024-04-16 094052](https://github.com/yogtan/Mizumi-Ecommerce/assets/125537069/c9aeb055-1be8-45fa-baaf-5478a8828b0c)
+![Nama Screenshot](https://github.com/yogtan/Mizumi-Ecommerce/assets/125537069/c9aeb055-1be8-45fa-baaf-5478a8828b0c){width=50%}
+
 
 
 
